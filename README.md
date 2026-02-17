@@ -1,7 +1,7 @@
 # Hi there, I'm Mohamed Amin 👋 
 
 ### 🎓 Software Engineering Student & Aspiring Full-Stack Developer
-I am a passionate builder of digital solutions, currently bridging the gap between hardware (Arduino) and scalable software architectures. I thrive on learning new frameworks and optimizing the developer experience.
+I am a passionate builder of digital solutions. I thrive on learning new frameworks and optimizing the developer experience.
 
 ---
 
@@ -19,16 +19,16 @@ I am a passionate builder of digital solutions, currently bridging the gap betwe
 
 ### 📈 GitHub Stats 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="Mohamed's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MedAmin1400&show_icons=true&theme=tokyonight" alt="Mohamed's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MedAmin1400&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 
 ### 👋 Connect with Me
 * 💼 **LinkedIn:** [In/mohamed-amin-helaoui](https://linkedin.com/in/mohamed-amin-helaoui)
-* 📧 **Email:** `your.email@example.com`
-* 🛠️ **Current Project:** Working on a [Briefly describe a current project here]
+* 📧 **Email:** `helaouiamin96@gmail.com`
+* 🛠️ **Current Project:** Working on a ASCII Image Converter
 
 ---
-*“The best way to predict the future is to invent it.”*
+*“First, solve the problem. Then, write the code.”*
