@@ -19,14 +19,14 @@ I am a passionate builder of digital solutions. I thrive on learning new framewo
 
 ### 📈 GitHub Stats 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MedAmin1400&show_icons=true&theme=tokyonight" alt="Mohamed's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MedAmin1400&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=MedAmin1400&show_icons=true&theme=tokyonight" alt="Mohamed's Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MedAmin1400&theme=tokyonight" alt="Mohamed's Streak" />
 </p>
 
 ---
 
 ### 👋 Connect with Me
-* 💼 **LinkedIn:** [In/mohamed-amin-helaoui](https://linkedin.com/in/mohamed-amin-helaoui)
+* 💼 **LinkedIn:** [Mohamed Amin Helaoui](https://www.linkedin.com/in/mohamed-amin-helaoui-0a95a630a/)
 * 📧 **Email:** `helaouiamin96@gmail.com`
 * 🛠️ **Current Project:** Working on a ASCII Image Converter
 
