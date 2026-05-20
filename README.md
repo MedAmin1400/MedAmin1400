@@ -19,24 +19,43 @@ I am a passionate builder of digital solutions. I thrive on learning new framewo
 | **Database** | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) |
 
 ---
-### 📈 GitHub Stats 
+
+
+### ⚡ Developer Activity
+
 <p align="center">
   <img 
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=MedAmin1400&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" 
-  />
-
-  <img 
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MedAmin1400&layout=compact&theme=tokyonight" 
+    src="https://github-profile-trophy.vercel.app/?username=MedAmin1400&theme=tokyonight&no-frame=true&row=1&column=6" 
+    alt="GitHub Trophies"
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://streak-stats.demolab.com?user=MedAmin1400&theme=tokyonight&hide_border=false" 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=MedAmin1400&theme=tokyo-night" 
+    alt="Contribution Graph"
   />
 </p>
+
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MedAmin1400&theme=tokyonight" 
+    alt="Profile Summary"
+  />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" 
+    alt="Snake animation"
+  />
+</p>
+
+
 ---
 
 ### 👋 Connect with Me
