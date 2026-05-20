@@ -19,8 +19,8 @@ I am a passionate builder of digital solutions. I thrive on learning new framewo
 
 ### 📈 GitHub Stats 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MedAmin1400&show_icons=true&theme=tokyonight&count_private=true&v=1" alt="Mohamed's Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MedAmin1400&theme=tokyonight&v=1" alt="Mohamed's Streak" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=MedAmin1400&show_icons=true&theme=tokyonight" alt="Mohamed's Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MedAmin1400&theme=tokyonight" alt="Mohamed's Streak" />
 </p>
 
 ---
