@@ -24,20 +24,13 @@ I am a passionate builder of digital solutions. I thrive on learning new framewo
 
 <p align="center">
   <img 
-    src="https://skillicons.dev/icons?i=java,python,js,dart,react,angular,spring,nodejs,flutter,docker,kubernetes,mysql,linux" 
+    src="https://skillicons.dev/icons?i=java,python,js,php,dart,laravel,tailwind,alpinejs,nodejs,flutter,docker,kubernetes,mysql,linux" 
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" 
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=70A5FD&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;Software+Engineering+Student;Angular+%7C+Spring+%7C+Flutter;Building+cool+things+every+day" 
-    alt="Typing SVG"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=70A5FD&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;Software+Engineering+Student;Laravel+%7C+Flutter+%7C+Node.js;TailwindCSS+%7C+Alpine.js+%7C+PHP;Building+clean+and+modern+web+apps" 
   />
 </p>
 
