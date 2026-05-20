@@ -1,3 +1,6 @@
+why is my stats aren't updating 
+
+
 # Hi there, I'm Mohamed Amin 👋 
 
 ### 🎓 Software Engineering Student & Aspiring Full-Stack Developer
@@ -19,15 +22,8 @@ I am a passionate builder of digital solutions. I thrive on learning new framewo
 
 ### 📈 GitHub Stats 
 <p align="center">
-  <img 
-    src="https://github-readme-stats-eight-theta.vercel.app/api?username=MedAmin1400&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" 
-    alt="Mohamed's Stats" 
-  />
-  
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=MedAmin1400&theme=tokyonight&include_all_commits=true&count_private=true" 
-    alt="Mohamed's Streak" 
-  />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=MedAmin1400&show_icons=true&theme=tokyonight" alt="Mohamed's Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MedAmin1400&theme=tokyonight" alt="Mohamed's Streak" />
 </p>
 
 ---
@@ -35,7 +31,7 @@ I am a passionate builder of digital solutions. I thrive on learning new framewo
 ### 👋 Connect with Me
 * 💼 **LinkedIn:** [Mohamed Amin Helaoui](https://www.linkedin.com/in/mohamed-amin-helaoui-0a95a630a/)
 * 📧 **Email:** `helaouiamin96@gmail.com`
-* 🛠️ **Current Project:** Working on an ASCII Image Converter
+* 🛠️ **Current Project:** Working on a ASCII Image Converter
 
 ---
 *“First, solve the problem. Then, write the code.”*
