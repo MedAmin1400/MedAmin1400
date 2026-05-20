@@ -20,27 +20,30 @@ I am a passionate builder of digital solutions. I thrive on learning new framewo
 
 ---
 
-
-### ⚡ Developer Activity
+## 🚀 Developer Dashboard
 
 <p align="center">
   <img 
-    src="https://github-profile-trophy.vercel.app/?username=MedAmin1400&theme=tokyonight&no-frame=true&row=1&column=6" 
-    alt="GitHub Trophies"
+    src="https://skillicons.dev/icons?i=java,python,js,dart,react,angular,spring,nodejs,flutter,docker,kubernetes,mysql,linux" 
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=MedAmin1400&theme=tokyo-night" 
-    alt="Contribution Graph"
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" 
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MedAmin1400&theme=tokyonight" 
-    alt="Profile Summary"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=70A5FD&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;Software+Engineering+Student;Angular+%7C+Spring+%7C+Flutter;Building+cool+things+every+day" 
+    alt="Typing SVG"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer" 
   />
 </p>
 
