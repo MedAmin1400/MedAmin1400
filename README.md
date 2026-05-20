@@ -19,13 +19,24 @@ I am a passionate builder of digital solutions. I thrive on learning new framewo
 | **Database** | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) |
 
 ---
-
 ### 📈 GitHub Stats 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=MedAmin1400&show_icons=true&theme=tokyonight" alt="Mohamed's Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MedAmin1400&theme=tokyonight" alt="Mohamed's Streak" />
+  <img 
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=MedAmin1400&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" 
+  />
+
+  <img 
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MedAmin1400&layout=compact&theme=tokyonight" 
+  />
 </p>
 
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=MedAmin1400&theme=tokyonight&hide_border=false" 
+  />
+</p>
 ---
 
 ### 👋 Connect with Me
