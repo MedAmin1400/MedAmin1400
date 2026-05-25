@@ -1,6 +1,3 @@
-why is my stats aren't updating 
-
-
 # Hi there, I'm Mohamed Amin 👋 
 
 ### 🎓 Software Engineering Student & Aspiring Full-Stack Developer
