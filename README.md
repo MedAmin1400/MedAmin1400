@@ -17,7 +17,7 @@ I am a passionate builder of digital solutions. I thrive on learning new framewo
 
 ---
 
-## 🚀 Developer Dashboard
+##
 
 <p align="center">
   <img 
@@ -39,7 +39,7 @@ I am a passionate builder of digital solutions. I thrive on learning new framewo
 
 ---
 
-### 🐍 Contribution Snake
+###
 
 <p align="center">
   <img 
@@ -54,7 +54,7 @@ I am a passionate builder of digital solutions. I thrive on learning new framewo
 ### 👋 Connect with Me
 * 💼 **LinkedIn:** [Mohamed Amin Helaoui](https://www.linkedin.com/in/mohamed-amin-helaoui-0a95a630a/)
 * 📧 **Email:** `helaouiamin96@gmail.com`
-* 🛠️ **Current Project:** Working on a ASCII Image Converter
+* 🛠️ **Current Project:** Working on a HRIS Web Application
 
 ---
 *“First, solve the problem. Then, write the code.”*
